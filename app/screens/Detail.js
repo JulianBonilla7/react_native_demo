@@ -7,6 +7,7 @@ export default class Detail extends Component {
 
   static navigationOptions = {
     title: 'Detail',
+    headerRight: (<View></View>),
   };
 
   render() {

@@ -23,6 +23,7 @@ export default StackNavigator(
       headerTitleStyle: {
         fontWeight: 'bold',
         textAlign: 'center',
+        alignSelf: 'center',
         flex: 1,
       },
     },
